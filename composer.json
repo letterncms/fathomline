@@ -2,9 +2,9 @@
     "name": "letterncms/fathomline",
     "description": "A survey office's site: WebGL fields, scroll choreography and client navigation, made with the admin's own blocks.",
     "type": "cms-kit",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "license": "MIT",
     "require": {
-        "letterncms/cms": ">=0.26 <1"
+        "letterncms/cms": ">=0.28 <1"
     }
 }
